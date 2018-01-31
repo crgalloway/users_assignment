@@ -1,0 +1,22 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+thead{
+	font-weight: bold;
+	border-bottom: 1px dotted black;
+}
+td{
+	border-right: 1px dotted black;
+	padding-right: 30px;
+}
+tr{
+	border-right: 
+}
+table{
+	border: 2px solid black;
+}
+h1{
+	border-bottom: 2px dotted black;
+	margin-top: 50px;
+}
